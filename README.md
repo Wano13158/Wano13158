@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Wano13158/Ha-poltava-power"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ha-poltava-power-dark.svg"><img src="assets/project-ha-poltava-power-light.svg" width="49%" alt="Ha-poltava-power"></picture></a>&nbsp;<a href="https://github.com/Wano13158/ha-ilink-lamp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ha-ilink-lamp-dark.svg"><img src="assets/project-ha-ilink-lamp-light.svg" width="49%" alt="ha-ilink-lamp"></picture></a>
-
-<a href="https://github.com/Wano13158/game"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-game-dark.svg"><img src="assets/project-game-light.svg" width="49%" alt="game"></picture></a>&nbsp;<a href="https://github.com/Wano13158/light-watcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-light-watcher-dark.svg"><img src="assets/project-light-watcher-light.svg" width="49%" alt="light-watcher"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
